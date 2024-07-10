@@ -1,9 +1,6 @@
 {
-  "intro": "Introduction",
-
-
-
-
+  "index": "Introduction",
+  
   "advanced": "Advanced (A Folder)",
   "api-file": "API Reference",
 
